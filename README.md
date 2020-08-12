@@ -7,7 +7,9 @@
 <body>
     <p>hola amigo</p>
 
-    <p>otro añadido</p>
+    
+
+    <h2> otro mas</h2>
 	
 </body>
 </html>
