@@ -6,6 +6,8 @@
 </head>
 <body>
     <p>hola amigo</p>
+
+    <p>otro añadido</p>
 	
 </body>
 </html>
